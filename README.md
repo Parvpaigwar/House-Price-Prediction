@@ -48,6 +48,4 @@ The model used is **Linear Regression**, which aims to predict the **Sale Price*
 - **Notebooks**: Jupyter notebooks containing the exploratory data analysis (EDA), feature engineering, and model development process.
 - **README**: This file providing an overview of the project.
 
----
 
-Let me know if you need any additional details!
